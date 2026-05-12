@@ -22,15 +22,12 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
   </a>
 </div>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yogmel&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yogmel&hide_border=true&theme=default" height="150" />
-</p>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogmel&hide_border=true&theme=default" height="150" />
 
 ## Tech Stack
 
 ### Core Languages & Frameworks
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
   <img width="10" />
@@ -43,6 +40,7 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### UI Frameworks & Libraries
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React" title="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="36" alt="Vue.js" title="Vue.js" />
@@ -75,6 +73,7 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### Testing, Quality and Bundling
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="36" alt="Jest" title="Jest" />
   <img width="10" />
@@ -88,6 +87,7 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### Backend & Databases
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js" title="Node.js" />
   <img width="10" />
@@ -105,6 +105,7 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### DevOps, CI/CD & Cloud
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git" title="Git" />
   <img width="10" />
@@ -134,11 +135,13 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### Mobile
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="36" alt="Ionic" title="Ionic" />
 </div>
 
 ### Design & Creative Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" alt="Figma" title="Figma" />
   <img width="10" />
@@ -149,6 +152,17 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 </div>
 
 ### CMS & Other Tools
+
+dn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="36" alt="Photoshop" title="Photoshop" />
+<img width="10" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="36" alt="Premiere Pro" title="Premiere Pro" />
+<img width="10" />
+cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="36" alt="Premiere Pro" title="Premiere Pro" />
+  <img width="10" />
+</div>
+
+### CMS & Other Tools
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="36" alt="WordPress" title="WordPress" />
   <img width="10" />
