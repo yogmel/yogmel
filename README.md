@@ -153,16 +153,6 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
 
 ### CMS & Other Tools
 
-dn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="36" alt="Photoshop" title="Photoshop" />
-<img width="10" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="36" alt="Premiere Pro" title="Premiere Pro" />
-<img width="10" />
-cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="36" alt="Premiere Pro" title="Premiere Pro" />
-  <img width="10" />
-</div>
-
-### CMS & Other Tools
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="36" alt="WordPress" title="WordPress" />
   <img width="10" />
