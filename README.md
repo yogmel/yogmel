@@ -22,8 +22,6 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
   </a>
 </div>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogmel&hide_border=true&theme=default" height="150" />
-
 ## Tech Stack
 
 ### Core Languages & Frameworks
