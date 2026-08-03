@@ -4,6 +4,8 @@
 
 I've spent the last ~10 years working across the full software development spectrum: from leading large-scale redesigns and framework migrations, to contributing to accessibility at open-source projects, teaching web development, and freelancing through my own studio.
 
+Lately, I've been studying and applying AI Engineering techniques in different projects.
+
 When I'm not coding, I'm just doing human stuff such as running, drawing on paper and cooking.
 
 📍 Berlin &nbsp;|&nbsp; EN / PT-BR
@@ -20,6 +22,44 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
   <a href="https://medium.com/@yogmel" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
+</div>
+
+## AI/LLM Engineering
+
+### Providers & APIs
+
+<div align="left">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic" />
+</div>
+
+### SDKs & Frameworks
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Vercel_AI_SDK-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel AI SDK" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
+</div>
+
+### Orchestration
+
+<div align="left">
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP" />
+</div>
+
+### Practices
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Prompt_Engineering-4B5563?style=for-the-badge" alt="Prompt Engineering" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Evals-4B5563?style=for-the-badge" alt="Evals" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Guardrails-4B5563?style=for-the-badge" alt="Guardrails" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Structured_Output-4B5563?style=for-the-badge" alt="Structured Output" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Hallucination_Mitigation-4B5563?style=for-the-badge" alt="Hallucination Mitigation" />
 </div>
 
 ## Tech Stack
