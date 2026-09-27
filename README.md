@@ -2,11 +2,11 @@
 
 **Senior Software Engineer** based in Berlin, Germany.
 
-I've spent the last ~10 years working across the full software development spectrum: from leading large-scale redesigns and framework migrations, to contributing to accessibility at open-source projects, teaching web development, and freelancing through my own studio.
+I've spent the last ~10 years working across the full software development spectrum: from leading large-scale redesigns and framework migrations to contributing to accessibility in open-source projects, teaching web development, and freelancing through my own studio.
 
-Lately, I've been studying and applying AI Engineering techniques in different projects.
+Lately, I've been going beyond using AI to code — architecting agentic systems that do the work themselves, from a production self-healing test-automation agent to a personal full-stack project with its own agentic pipeline.
 
-When I'm not coding, I'm just doing human stuff such as running, drawing on paper and cooking.
+When I'm not coding, I'm just doing human stuff such as running, drawing on paper, and cooking.
 
 📍 Berlin &nbsp;|&nbsp; EN / PT-BR
 
@@ -59,7 +59,7 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
   &nbsp;
   <img src="https://img.shields.io/badge/Structured_Output-4B5563?style=for-the-badge" alt="Structured Output" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Hallucination_Mitigation-4B5563?style=for-the-badge" alt="Hallucination Mitigation" />
+  <img src="https://img.shields.io/badge/Harness_Design-4B5563?style=for-the-badge" alt="Harness Design" />
 </div>
 
 ## Tech Stack
@@ -70,6 +70,8 @@ When I'm not coding, I'm just doing human stuff such as running, drawing on pape
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript" title="JavaScript" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" title="TypeScript" />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" title="Python" />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="HTML5" title="HTML5" />
   <img width="10" />
